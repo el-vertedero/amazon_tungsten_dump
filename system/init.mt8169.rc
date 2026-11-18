@@ -1,0 +1,17 @@
+on init && property:ro.vendor.product.model_trigger=KFTULWI
+     setprop ro.product.config.type A3URJAABOST7NW
+     setprop ro.product.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.vendor.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.product.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.system.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.system_ext.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.odm.model ${ro.vendor.product.model_trigger}
+
+on init && property:ro.vendor.product.model_trigger=KFTUWI
+     setprop ro.product.config.type A2V9UEGZ82H4KZ
+     setprop ro.product.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.vendor.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.product.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.system.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.system_ext.model ${ro.vendor.product.model_trigger}
+     setprop ro.product.odm.model ${ro.vendor.product.model_trigger}
