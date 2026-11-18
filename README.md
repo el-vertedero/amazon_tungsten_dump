@@ -1,0 +1,14 @@
+# tungsten-user 11 RS8338.3344N 0030132736000 amz-p,release-keys
+- manufacturer: amazon
+- platform: mt8169
+- codename: tungsten
+- flavor: tungsten-user
+- release: 11
+- id: RS8338.3344N
+- incremental: 0030132736132
+- tags: amz-p,release-keys
+- fingerprint: Amazon/tungsten/tungsten:11/RS8338.3344N/0030132736000:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: tungsten-user-11-RS8338.3344N-0030132736000-amz-p,release-keys
+- repo: amazon_tungsten_dump
